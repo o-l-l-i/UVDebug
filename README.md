@@ -47,3 +47,5 @@ It's possible to tweak it to get different looks:
 ![UV Debug shader](adjustment1.png)
 
 ![UV Debug shader](adjustment2.png)
+
+© 2020 Olli Sorjonen All Rights Reserved
